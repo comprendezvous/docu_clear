@@ -1,6 +1,6 @@
 docu_clear
 ==========
-notion:
+<b>notion:</b>
  
 to save those learning new programming languages from countless hours of tortuous, inefficient self study of unclear documentation. 
 

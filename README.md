@@ -2,7 +2,7 @@ docu_clear
 ==========
 <b>notion</b>
  
-to save those learning new programming languages from countless hours 
+to save those learning new programming languages from countless hours  
 of tortuous, inefficient self study of unclear documentation. 
 
 premise:  

@@ -26,7 +26,7 @@ scope: what is the total scope of the programming language.
 definition: what is the most succinct way to describe a term within the  
 programming language. 
 
-<b>impetus</b>  
+<b>background</b>  
 
 i originally started with the idea of a soundcloud for documentation where  
 users can identify the exact point where their comprehension of a topic  

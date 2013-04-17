@@ -1,5 +1,3 @@
-docu_clear
-==========
 <b>notion</b>
  
 to save those learning new programming languages from countless hours  

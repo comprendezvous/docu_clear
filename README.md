@@ -17,11 +17,14 @@ docu_clear (working title) is this system.
 
 it is based on three pillars of communication:
 
-<b>context:</b>  what is the full context of the programming language? 
+<b>context:</b>  
+what is the full context of the programming language? 
 
-<b>scope:</b>  what is the total scope of the programming language. 
+<b>scope:</b>  
+what is the total scope of the programming language. 
 
-<b>definition:</b>  what is the most succinct way to describe a term within the  
+<b>definition:</b>  
+what is the most succinct way to describe a term within the  
 programming language. 
 
 <b>background</b>  

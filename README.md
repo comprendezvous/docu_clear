@@ -13,15 +13,19 @@ conventions and protocols that all exist to make learning easier.
 
 docu_clear (working title) is this system. 
 
-<b>content</b>  
+<b>scope</b>  
 
-it is based on three pillars of communication:
+it is based on three pillars of efficient information transfer:
 
 <b>context:</b>  
-what is the full context of the programming language? 
+what is the full context of the programming language?
+
+e.g. 'where does the program sit in the grand scheme of things?'
 
 <b>scope:</b>  
 what is the total scope of the programming language. 
+
+e.g. 'where is a list of everyting in the programming language?'
 
 <b>definition:</b>  
 what is the most succinct way to describe a term within the  

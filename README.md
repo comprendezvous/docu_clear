@@ -16,7 +16,7 @@ for the absolute newbie.
 
 <b>background</b>  
 
-the ideas started as a soundcloud for documentation where users could  
+the idea started as a soundcloud for documentation where users could  
 identify the exact point where their comprehension of a topic described  
 in documentation fails.
 
@@ -27,12 +27,8 @@ it is based on three pillars of efficient information transfer:
 <b>context:</b>  
 what is the full context of the programming language?
 
-e.g. 'what is the notion, premise and background of the language?'
-
 <b>scope:</b>  
 what is the total scope of the programming language. 
-
-e.g. 'where is a list of everyting in the programming language?'
 
 <b>definition:</b>  
 what is the most succinct way to describe a term within the  

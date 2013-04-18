@@ -1,5 +1,14 @@
-docu_clear - context, scope and defintion, making learning easier.  
-Copyright (C) 2013  comprendezvous
+docu_clear - making learning easy.  
+
+this program is copyright (c) 2013 comprendezvous.com
+
+this program is released under a dual license applicable to two user groups:
+
+group one:
+
+name:  non-commercial users
+license:  GPLv3
+information:  http://opensource.org/licenses/GPL-3.0
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -13,3 +22,9 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+group two:  commercial users
+
+please contact us for details.  
+
+

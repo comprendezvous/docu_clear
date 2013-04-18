@@ -34,7 +34,7 @@ definition:
 what is the most succinct way to describe a term within the  
 programming language. 
 
-<b>screenshots:</b>
+<b>screenshots</b>
 
 see a gui walkthrough here:
 

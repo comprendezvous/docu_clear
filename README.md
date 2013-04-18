@@ -24,13 +24,13 @@ in documentation fails.
 
 it is based on three pillars of efficient information transfer:
 
-context: 
+context:  
 what is the full context of the programming language?
 
-scope:
+scope:  
 what is the total scope of the programming language. 
 
-definition: 
+definition:  
 what is the most succinct way to describe a term within the  
 programming language. 
 

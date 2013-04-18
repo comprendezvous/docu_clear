@@ -11,16 +11,23 @@ information your brain needs to understand the documentation is.
 documentation can be easier to understand by following a system of  
 conventions and protocols that all exist to make learning easier. 
 
-docu_clear (working title) is this system. 
+the system should be a newbie friendly place with all explanations catering  
+for the absolute newbie.  
 
-<b>scope</b>  
+<b>background</b>  
+
+the ideas started as a soundcloud for documentation where users could  
+identify the exact point where their comprehension of a topic described  
+in documentation fails.
+
+<b>content</b>  
 
 it is based on three pillars of efficient information transfer:
 
 <b>context:</b>  
 what is the full context of the programming language?
 
-e.g. 'where does the program sit in the grand scheme of things?'
+e.g. 'what is the notion, premise and background of the language?'
 
 <b>scope:</b>  
 what is the total scope of the programming language. 
@@ -30,19 +37,3 @@ e.g. 'where is a list of everyting in the programming language?'
 <b>definition:</b>  
 what is the most succinct way to describe a term within the  
 programming language. 
-
-<b>background</b>  
-
-i originally started with the idea of a soundcloud for documentation where  
-users can identify the exact point where their comprehension of a topic  
-described in documentation fails.
-
-i don't know if it's the same for others but i'll be reading along (some  
-documentation) and then bam (previously unexplained term is used) and  
-i'm lost. 
-
-so that's where the idea came from, and i just hate wasting time. most  
-documentation is really hard to understand and it doesn't need to be. 
-
-it would also be a newbie friendly place and have the premise that all  
-explanations should cater to the absolute newbie. 

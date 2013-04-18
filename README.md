@@ -33,3 +33,11 @@ what is the total scope of the programming language.
 <b>definition:</b>  
 what is the most succinct way to describe a term within the  
 programming language. 
+
+<b>screenshots:</b>
+
+see a gui walkthrough here:
+
+[<a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/001.png" target="blank">1</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/002.png" target="blank">2</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/003.png" target="blank">3</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/004.png" target="blank">4</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/005.png" target="blank">5</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/006.png" target="blank">6</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/007.png" target="blank">7</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/008.png" target="blank">8</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/009.png" target="blank">9</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/010.png" target="blank">10</a>, <a href="https://raw.github.com/comprendezvous/docu_clear/master/presentation/images/011.png" target="blank">11</a>]
+
+
